@@ -1,3 +1,4 @@
 # 项目排除路径
 /target/
 *.DS_Store
+*/vcs.xml
